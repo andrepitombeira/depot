@@ -5,6 +5,12 @@ ruby:
   description: Ruby is the fastest growing and most exciting dynamic language out there.
   image_url: ruby.png
   price: 49.50
+ 
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
 
 two:
   title: MyString
